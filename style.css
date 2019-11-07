@@ -1,0 +1,34 @@
+.container{
+    width: 100%;
+    height: 60px;
+    text-align: left;
+    padding: 10px;
+}
+.btn1{
+    background: lightblue;
+    width: 350px;
+    height: 55px;
+    border: solid black 2px;
+    border-radius: 50px;
+}
+.btn2{
+    background: lightgreen;
+    width: 450px;
+    height: 55px;
+    border: solid black 2px;
+    border-radius: 50px;
+}
+.btn3{
+    background: lightsalmon;
+    width: 350px;
+    height: 55px;
+    border: solid black 2px;
+    border-radius: 50px;
+}
+.text {
+    background: cornsilk;
+    width: 400px;
+    height: 35px;
+    border: solid lightskyblue 3px;
+    border-radius: 50px;
+}
